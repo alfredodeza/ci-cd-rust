@@ -3,7 +3,7 @@
 
 # Continuous Integration and Continuous Delivery with Rust
 
-_Rust for DevOps week 3: CI/CD with Rust_
+_Rust for DevOps week 4: CI/CD with Rust_
 
 This week, you will learn how to implement continuous integration and continuous delivery pipelines using tools like GitHub Actions and Jenkins. You will understand core CI/CD concepts, components of a pipeline, and workflows for automating builds, tests, and deployments. By managing dependencies between jobs, implementing logic, and linting artifacts, you will create robust pipelines tailored to your project needs. You will apply these skills to build an automated CI/CD pipeline for a sample application.
 
